@@ -1,6 +1,6 @@
 # Projeto Final da Disciplina Inteligência Artificial
 
-Esse repositório foi criado com o intuito de armazenar o projeto avaliativo final das disciplina de inteligência artificial, ministrada pelo Professor Hendrik Teixeira Macedo
+Esse repositório foi criado com o intuito de armazenar o projeto avaliativo final da disciplina de inteligência artificial, ministrada pelo Professor Hendrik Teixeira Macedo
 
 ## Alunos Responsáveis
 
