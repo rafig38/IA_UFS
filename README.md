@@ -1,7 +1,6 @@
 # Projeto Final da Disciplina Inteligência Artificial
 
 Esse repositório foi criado com o intuito de armazenar o projeto avaliativo final da disciplina de inteligência artificial, ministrada pelo Professor Hendrik Teixeira Macedo
-Vídeo: https://youtu.be/iSNRTovL8E8
 
 ## Alunos Responsáveis
 
@@ -13,6 +12,7 @@ Vídeo: https://youtu.be/iSNRTovL8E8
 ## Previsão do tipo de vinho usando Deep Learning
 
 Usamos aprendizagem profunda para grandes conjuntos de dados, mas para compreender o conceito de aprendizagem profunda, usamos o pequeno conjunto de dados de qualidade do vinho. Você pode encontrar o conjunto de dados de qualidade do vinho no UCI Machine Learning Repository, que está disponível gratuitamente.
+Vídeo: https://youtu.be/iSNRTovL8E8
 
 ### Bases de Dados Utilizadas
 
